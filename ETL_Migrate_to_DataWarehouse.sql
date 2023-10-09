@@ -1,3 +1,5 @@
+
+
 -- Priority Dimension
 
 
@@ -214,6 +216,10 @@ from (
      )
 
 select * from jz_ss_dw_data
+
+
+
+
 
 
 
